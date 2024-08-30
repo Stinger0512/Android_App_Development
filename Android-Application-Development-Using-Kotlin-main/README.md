@@ -1,32 +1,9 @@
-SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin
+Virtual-Internship---Android-Application-Development-Using-Kotlin
 ==================================
 Virtual Internship - Android Application Development Using Kotlin by SmartBridge & GOOGLE in collaboration with AICTE
 
-Name: [shubham](https://github.com/noobshubham)
+Name: [shivansh](https://github.com/Stinger0512)
 ------------
-
-Presenting the project Nearby Store & Grocery List to you!
-
-Final Project
-------------
-
-Although I'm making a lot of effort to fix the flaws, the Maps part of the app is currently not functioning as intended. As a result, I added a grocery list project to the same app, which is completely functional. You can check it out here. Excellent user interface and functionality.
-
-- [Source Code (On My Repo)](https://github.com/noobshubham/GoStore) - Give :star: to the repo!
-- [App Presentation Video](https://youtu.be/_Qg_mJRPLIg)
-- [Download APK](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/releases/download/v1.4/GoStore.apk) 
-
-- [![Github All Releases](https://img.shields.io/github/downloads/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/releases)
-
-![](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Final%20Project%20Mockup/banner.png)
-
-Preview / Screenshots
-------------
-
-![](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Final%20Project%20Mockup/registration.png)
-![](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Final%20Project%20Mockup/map_part.png)
-![](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Final%20Project%20Mockup/grocery%20list.png)
-
 
 All Projects Module Wise
 ------------
