@@ -11,9 +11,9 @@ All Projects Module Wise
 <details>
     <summary><b>Unit 1: Kotlin Basics</b></summary>
   
-- [Happy Birthday Card](https://github.com/Stinger0512/Android_App_Development/blob/main/Android-Application-Development-Using-Kotlin-main/blob/main/Unit%201%20-%20Kotlin%20Basics/Happy%20Birthday.zip)
-- [Lemonade](https://github.com/Stinger0512/Android_App_Development/blob/main/Android-Application-Development-Using-Kotlin-main/blob/main/Unit%201%20-%20Kotlin%20Basics/Lemonade.zip)
-- [Dice Roller](https://github.com/Stinger0512/Android_App_Development/blob/main/Android-Application-Development-Using-Kotlin-main/blob/main/Unit%201%20-%20Kotlin%20Basics/Dice%20Roller.zip)
+- [Happy Birthday Card](https://github.com/Stinger0512/Android_App_Development/blob/main/Android-Application-Development-Using-Kotlin-main/Unit%201%20-%20Kotlin%20Basics/Happy%20Birthday.zip)
+- [Lemonade](https://github.com/Stinger0512/Android_App_Development/blob/main/Android-Application-Development-Using-Kotlin-main/Unit%201%20-%20Kotlin%20Basics/Lemonade.zip)
+- [Dice Roller](https://github.com/Stinger0512/Android_App_Development/blob/main/Android-Application-Development-Using-Kotlin-main/Unit%201%20-%20Kotlin%20Basics/Dice%20Roller.zip)
 </details>
 
 <details>
